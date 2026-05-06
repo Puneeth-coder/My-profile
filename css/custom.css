@@ -1,0 +1,15 @@
+/* Simple Manual Toggle Example */
+body.dark-mode {
+    background-color: #1a202c; /* Dark slate */
+    color: #f7fafc; /* Light gray text */
+}
+
+body.dark-mode nav {
+    background-color: #2d3748;
+    color: white;
+}
+
+body.dark-mode .bg-white {
+    background-color: #2d3748 !important;
+    color: white;
+}
